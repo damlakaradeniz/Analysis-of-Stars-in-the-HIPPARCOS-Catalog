@@ -1,0 +1,1 @@
+# HIPPARCOS-Katalo-undaki-Y-ld-zlar-n-Analizi
