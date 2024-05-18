@@ -1,1 +1,1 @@
-# HIPPARCOS-Katalo-undaki-Y-ld-zlar-n-Analizi
+# Analysis of Stars in the HIPPARCOS Catalog
