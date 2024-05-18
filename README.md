@@ -1,5 +1,7 @@
 # Analysis of Stars in the HIPPARCOS Catalog
 
+Bu notebook'ta Akbank Veri Analizi Bootcamp'i için yapmış olduğum HIPPARCOS Kataloğu ile Yıldızların Analizi projesini içermektedir.
+
 ESA'nın Hipparcos uzay astrometrisi misyonu, yüksek hassasiyetle yüz binden fazla yıldızın ve daha az hassasiyetle bir milyondan fazla yıldızın konumlarını belirleyen öncü bir Avrupa projesiydi.
 Hipparcos kataloğu 118.218 veri içermektedir. Bu verileri daha doğru bir şekilde kullanmak için bazı filtrelemeler yapılmıştır. Bu filtrelemeler sonucunda veri sayısı 73.919'a düşmüştür. Bu da veri setinin yaklaşık olarak %62'sine denk gelmektedir. Daha sonradan formüllerle hesaplanıp eklenen bazı parametreler olmuştur.
 
